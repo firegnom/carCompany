@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.firegom.demo.carcompany.domain.CompanyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-11T07:55:42.128Z" hostname="guardian" time="0.045">
+  <properties/>
+  <testcase name="testCompanyAllElectric()" classname="com.firegom.demo.carcompany.domain.CompanyTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
